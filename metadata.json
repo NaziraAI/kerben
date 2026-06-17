@@ -1,0 +1,6 @@
+{
+  "name": "Kerben Travel",
+  "description": "Официальный сайт туристического агентства Kerben Travel - Авиабилеты во все направления, туры в Турцию, Египет, ОАЭ, Таиланд, Европу, а также увлекательный внутренний туризм в Кыргызстане.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
